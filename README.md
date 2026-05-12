@@ -57,4 +57,18 @@
 
 ### Примеры диалогов
 
+Расчет совместимости
+
 <img width="1062" height="845" alt="Снимок экрана 2026-05-13 в 00 06 42" src="https://github.com/user-attachments/assets/242ee387-f97a-4577-acaf-2766b7b4ffdd" />
+
+Расчет натальной карты
+
+<img width="1062" height="783" alt="Снимок экрана 2026-05-13 в 00 08 33" src="https://github.com/user-attachments/assets/ef2aed87-064f-4b3d-a496-be87dc61311f" />
+
+Ответ на любой вопрос
+
+<img width="1063" height="488" alt="Снимок экрана 2026-05-13 в 00 08 58" src="https://github.com/user-attachments/assets/fe8fce03-d496-4cc5-bf30-94609cab2292" />
+
+Таро расклад
+
+<img width="1069" height="840" alt="Снимок экрана 2026-05-13 в 00 09 18" src="https://github.com/user-attachments/assets/1a6c83bf-e692-4edb-9ef4-c57f4b997bda" />
