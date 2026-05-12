@@ -54,3 +54,7 @@
 - Запрос к YandexGPT для создания "магического" комментария
 
 ---
+
+### Примеры диалогов
+
+<img width="1062" height="845" alt="Снимок экрана 2026-05-13 в 00 06 42" src="https://github.com/user-attachments/assets/242ee387-f97a-4577-acaf-2766b7b4ffdd" />
